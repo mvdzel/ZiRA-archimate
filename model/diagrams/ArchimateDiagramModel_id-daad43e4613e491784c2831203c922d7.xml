@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Netwerkzorg Value Stream - 1e concept WG"
+    name="Netwerkzorg Value Stream - concept WG"
     id="id-daad43e4613e491784c2831203c922d7">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -218,27 +218,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9e77cc73276946d4b94ff1459a2f9dc8">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2d6340cb83f4498e983e29b63f1bfa62"
-        source="id-9e77cc73276946d4b94ff1459a2f9dc8"
-        target="id-6e79dab598994f0497bef9eba8b31f21">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-80f229c97a9b45fb813a1ec0259b7e78.xml#id-80f229c97a9b45fb813a1ec0259b7e78"/>
-    </sourceConnections>
-    <bounds
-        x="636"
-        y="521"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-8ea32e700e6f43678eeb5eb7318385cd.xml#id-8ea32e700e6f43678eeb5eb7318385cd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6e79dab598994f0497bef9eba8b31f21"
       targetConnections="id-2d6340cb83f4498e983e29b63f1bfa62">
     <sourceConnections
@@ -303,5 +282,26 @@
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-4231d4e276624a3c9c89fb54e393d9b8.xml#id-4231d4e276624a3c9c89fb54e393d9b8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9e77cc73276946d4b94ff1459a2f9dc8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2d6340cb83f4498e983e29b63f1bfa62"
+        source="id-9e77cc73276946d4b94ff1459a2f9dc8"
+        target="id-6e79dab598994f0497bef9eba8b31f21">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-80f229c97a9b45fb813a1ec0259b7e78.xml#id-80f229c97a9b45fb813a1ec0259b7e78"/>
+    </sourceConnections>
+    <bounds
+        x="636"
+        y="505"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-8ea32e700e6f43678eeb5eb7318385cd.xml#id-8ea32e700e6f43678eeb5eb7318385cd"/>
   </children>
 </archimate:ArchimateDiagramModel>
