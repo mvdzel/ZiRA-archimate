@@ -498,9 +498,9 @@
           href="AssociationRelationship_id-1cd3078ac7a2463a8aca8a7892a3e903.xml#id-1cd3078ac7a2463a8aca8a7892a3e903"/>
     </sourceConnections>
     <bounds
-        x="336"
+        x="324"
         y="123"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Value"
