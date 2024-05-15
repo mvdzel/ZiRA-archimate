@@ -10,7 +10,10 @@ Dit is de zandbak Archimate model-repository voor de ZiRA doorontwikkelingen.
 * Dan:
   * URL: https://github.com/mvdzel/ZiRA-archimate.git
   * uid: je eigen github username
-  * pwd: je github personal access token (die je eerst moet aanmaken in GitHub/Account/Settings/Developer Settings/Create Personal Access Token)
+  * pwd: je github personal access token
+    * aanmaken in GitHub/Account/Settings/Developer Settings/Create Personal Access Token
+    * [New personal access token (classic)](https://github.com/settings/tokens/new)
+    * vink "repo" scope aan
 * Kies menu "Collaboration/Toggle Collaboration Workspace"
 * Dubbel klik op "ZiRA Doorontwikkeling"
 * Klaar
