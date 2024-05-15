@@ -6,6 +6,6 @@
       xsi:type="archimate:ValueStream"
       href="ValueStream_id-42fa6055416b4d6c83fbb42f08c3d2fd.xml#id-42fa6055416b4d6c83fbb42f08c3d2fd"/>
   <target
-      xsi:type="archimate:Goal"
-      href="Goal_id-b5e1886053014113919416087f811192.xml#id-b5e1886053014113919416087f811192"/>
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-0e90bd77662e4494a23b7170fb486217.xml#id-0e90bd77662e4494a23b7170fb486217"/>
 </archimate:InfluenceRelationship>
