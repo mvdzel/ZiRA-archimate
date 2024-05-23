@@ -1,8 +1,8 @@
 Dit is de zandbak Archimate model-repository voor de ZiRA doorontwikkelingen.
 
 # Tools
-* [Archi](https://www.archimatetool.com/download/)
-* [coArchi – Model Collaboration for Archi](https://github.com/archimatetool/archi-modelrepository-plugin/wiki)
+* Installeer [Archi](https://www.archimatetool.com/download/)
+* Installeer [coArchi – Model Collaboration for Archi](https://github.com/archimatetool/archi-modelrepository-plugin/wiki)
 
 # Setup
 * Kies menu "Collaboration/Import Remote Model to Workspace"
