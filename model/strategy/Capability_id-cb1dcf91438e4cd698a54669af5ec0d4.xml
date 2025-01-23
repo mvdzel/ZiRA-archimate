@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="het kunnen samenwerken binnen een netwerk"
-    id="id-cb1dcf91438e4cd698a54669af5ec0d4"/>
+    name="samenwerken binnen een netwerk"
+    id="id-cb1dcf91438e4cd698a54669af5ec0d4"
+    documentation="De zorgverlener beschikt over de capaciteiten en (technische) middelen die nodig zijn om samen te kunnen werken binnen een zorgnetwerk."/>

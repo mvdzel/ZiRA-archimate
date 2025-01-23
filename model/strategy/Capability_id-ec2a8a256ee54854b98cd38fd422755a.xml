@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="inzicht in de mogelijke vormen van netwerkzorg"
-    id="id-ec2a8a256ee54854b98cd38fd422755a"/>
+    name="catalogus netwerkzorg"
+    id="id-ec2a8a256ee54854b98cd38fd422755a"
+    documentation="Zorgverleners hebben toegang tot een catalogus met de verschillende vormen van netwerkzorg en de doelgroep waarvoor ze bedoeld zijn. De catalogus bevat zowel geprecoördineerde als adhoc vormen van netwerkzorg.&#xD;&#xA;"/>

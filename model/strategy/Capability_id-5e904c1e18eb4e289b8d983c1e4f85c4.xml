@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="uitzetten van acties en terugrapporteren daarop"
-    id="id-5e904c1e18eb4e289b8d983c1e4f85c4"/>
+    name="netwerk ordermanagement"
+    id="id-5e904c1e18eb4e289b8d983c1e4f85c4"
+    documentation="De mogelijkheid om acties, vragen en verzoeken bij netwerkpartners uit te zetten, en om die van anderen te accepteren en hierop te beantwoordn c.q. rapporteren."/>

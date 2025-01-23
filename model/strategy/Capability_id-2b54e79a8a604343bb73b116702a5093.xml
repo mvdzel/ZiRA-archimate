@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="inzicht verkrijgen in de samenstelling van het netwerk en ieders rol daarin"
-    id="id-2b54e79a8a604343bb73b116702a5093"/>
+    name="inzicht in het netwerk"
+    id="id-2b54e79a8a604343bb73b116702a5093"
+    documentation="De mogelijkheid om inzicht te verkrijgen in de samenstelling van het netwerk en ieders rol daarin"/>

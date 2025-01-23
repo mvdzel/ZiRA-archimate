@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="het kunnen overdragen van de patiënt"
-    id="id-0d0b33d7638243ae8bf0c3dd6f197832"/>
+    name="overdragen van de patiënt"
+    id="id-0d0b33d7638243ae8bf0c3dd6f197832"
+    documentation="De mogelijkheid om een overdracht uit te voeren naar een andere partij binnen of buiten het netwerk. En hiermee de eigen deelname aan het netwerk te beëindigen."/>

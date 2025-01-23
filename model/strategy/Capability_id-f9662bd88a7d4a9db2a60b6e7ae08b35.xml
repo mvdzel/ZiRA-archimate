@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="delen en raadplegen van informatie binnen het netwerk"
-    id="id-f9662bd88a7d4a9db2a60b6e7ae08b35"/>
+    name="delen en raadplegen van informatie"
+    id="id-f9662bd88a7d4a9db2a60b6e7ae08b35"
+    documentation="De mogelijkheid om informatie met netwerkpartners te kunnen delen c.q. beschikbaar te stellen en om informatie van anderen te raadplegen.&#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="het kunnen bijdragen aan het zorgplan (vanuit de eigen instelling)"
-    id="id-f0c436a49e0d4d5baa2d4b620a579120"/>
+    name="leveren van patiëntenzorg"
+    id="id-f0c436a49e0d4d5baa2d4b620a579120"
+    documentation="Het kunnen leveren van zorg (diagnose, onderzoek en behandeling) afgestemd op de behoefte van de patiënt. &#xD;&#xA;In het kader van netwerkzorg binnen de afspraken zoals die in het netwerk gemaakt zijn."/>
